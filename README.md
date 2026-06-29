@@ -1,4 +1,4 @@
-# Janvi Arora Portfolio
+# Janvi Portfolio
 
 A modern software engineering portfolio showcasing my projects, technical skills, and experience in Full Stack Development, Backend Engineering, and AI-powered applications.
 
